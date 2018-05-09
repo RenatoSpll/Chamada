@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
     <EditText
-        android:id="@+id/editText3"
+        android:id="@+id/txtSenha"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
@@ -43,7 +43,7 @@
         app:layout_constraintVertical_bias="0.78" />
 
     <Button
-        android:id="@+id/btn2"
+        android:id="@+id/btnEsqueci"
         android:layout_width="261dp"
         android:layout_height="62dp"
         android:layout_marginBottom="8dp"
@@ -96,7 +96,7 @@
         app:layout_constraintVertical_bias="0.264" />
 
     <EditText
-        android:id="@+id/editText"
+        android:id="@+id/txtMatrícula"
         android:layout_width="217dp"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
