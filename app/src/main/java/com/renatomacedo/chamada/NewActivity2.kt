@@ -74,7 +74,4 @@ class NewActivity2: AppCompatActivity() {
 
     }
 
-
-
-
 }

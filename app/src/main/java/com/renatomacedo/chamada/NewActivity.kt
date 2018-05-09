@@ -13,8 +13,8 @@ class NewActivity : AppCompatActivity(){
         var db = DatabaseHelper(this)
 
 
-        txtProfessor.text = intent.getStringExtra("login")
-        var turmas = intent.getStringArrayExtra("turmas")
+        txtProfessor.text = intent.getStringExtra("login")//ignore
+        var turmas = intent.getStringArrayExtra("turmas")//ignore
 
 
       // var turma = db.readTurma(intent.getStringExtra("login"))
